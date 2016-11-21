@@ -2,7 +2,7 @@
 textwriteout.js
 Jquery Plugin
 Version 1.0.0
-Released 15/11/2016
+Released 22/11/2016
 Created by Shawn Flett
 
 Demo Site: https://shawnflett.github.io/textwriteout/
