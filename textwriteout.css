@@ -1,0 +1,7 @@
+.word-selected{
+  background-color: #000;
+}
+
+.cursor-hide{
+  display: none !important;
+}
