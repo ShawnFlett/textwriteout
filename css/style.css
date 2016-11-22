@@ -186,8 +186,11 @@ h4 {
   margin: auto;
   max-width: 64rem; }
   #download #download-wrap {
-    width: 50%;
+    width: 100%;
     margin: auto; }
+    @media screen and (min-width: 35.5rem) {
+      #download #download-wrap {
+        width: 50%; } }
   #download .download-subtitle {
     color: #bba1d9;
     line-height: 150%;
